@@ -1,0 +1,17 @@
+matrix:
+  row: 2
+  col: 2
+  block_width: 768  # in pixel
+  padding: 4  # in pixel
+
+font: fonts/Tahomabd-SourceHanSerifBD.ttf
+font_size: 16
+text_color: "#000000"
+background_color: "#ffffff"
+
+logo:
+  path: images/logo.png
+  transparency: 0.5
+
+shuffle: False
+comment: https://github.com/pengzhendong/video-thumbnail-maker
